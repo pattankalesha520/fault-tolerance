@@ -1,9 +1,9 @@
 
-# Storage Optimization
-**Storage Optimization In Distributed Environments Using Optimistic Concurrency Control**
+# Fault Tolerance
+**OPTIMIZING FAULT-TOLERANCE IN DISTRIBUTED SYSTEMS WITH AI-AUGMENTED REPLICA MANAGEMENT**
 
 ### Paper Information
-- **Author(s):** Vipul Kumar Bondugula
+- **Author(s):** Kalesha Khan Pattan
 - **Published In:** International Journal on Science and Technology (IJSAT)
 - **Publication Date:** June 2024
 - **ISSN:** E-ISSN 2229-7677
