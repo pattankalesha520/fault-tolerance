@@ -14,14 +14,14 @@
 This paper addresses fault tolerance challenges in distributed systems arising from static replica management and reactive recovery mechanisms. It examines the limitations of traditional replication approaches, including fixed redundancy, slow adaptation to workload dynamics, and inefficient resource utilization. The proposed AI-augmented replica management framework leverages machine learning and predictive analytics to anticipate failures and performance degradation proactively. By dynamically adjusting replica placement, replication factors, and synchronization strategies, the approach enhances system reliability while minimizing overhead. The study highlights the role of intelligent, self-healing replication in improving scalability, throughput, and resilience across modern distributed infrastructures.
 
 ### Key Contributions
-- **Storage Overhead Mitigation:**
-  Investigated the storage inefficiencies introduced by Multi-Version Concurrency Control due to version proliferation and garbage collection overhead in distributed environments.
+- **Adaptive Fault-Tolerance Framework:**
+  Proposed an AI-augmented replica management architecture that overcomes the limitations of static replication and reactive recovery by introducing predictive, self-adaptive fault-tolerance mechanisms.
 
-- **Optimistic Concurrency Integration:**
-  Applied Optimistic Concurrency Control selectively to reduce unnecessary version creation while preserving transactional consistency and isolation guarantees.
+- **Predictive Failure Management:**
+  Integrated machine learning–based prediction and anomaly detection to anticipate node failures, performance degradation, and network instability before faults occur.
   
-- **Comprehensive Evaluation:**
-  Conducted a detailed comparative analysis of MVCC and OCC across multiple cluster sizes, demonstrating significant reductions in storage consumption and predictable scalability          behavior.
+- **Reinforcement Learning–Driven Replication:**
+  Applied reinforcement learning to dynamically optimize replication factor, replica placement, and synchronization frequency, balancing fault coverage with resource efficiency in real time.
   
 - **Research & Implementation Leadership:**
   Directed the design, implementation, and experimental validation of a hybrid concurrency control approach focused on improving storage efficiency and scalability.
