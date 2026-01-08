@@ -24,7 +24,7 @@ This paper addresses fault tolerance challenges in distributed systems arising f
   Applied reinforcement learning to dynamically optimize replication factor, replica placement, and synchronization frequency, balancing fault coverage with resource efficiency in real time.
   
 - **Research & Implementation Leadership:**
-  Directed the design, implementation, and experimental validation of a hybrid concurrency control approach focused on improving storage efficiency and scalability.
+  Led the design, implementation, and validation of an intelligent, self-healing replication system combining monitoring, prediction, learning, and optimization in distributed environments.
 
 ### Relevance & Real-World Impact
 - **Improved Storage Efficiency:**
