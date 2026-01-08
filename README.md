@@ -4,9 +4,9 @@
 
 ### Paper Information
 - **Author(s):** Kalesha Khan Pattan
-- **Published In:** International Journal on Science and Technology (IJSAT)
-- **Publication Date:** June 2024
-- **ISSN:** E-ISSN 2229-7677
+- **Published In:** International Journal of Intelligent Systems and Applications in Engineering (IJISAE)
+- **Publication Date:** Feb 2021
+- **ISSN:** ISSN 2147-6799
 - **DOI:**
 - **Impact Factor:** 9.88
 
@@ -53,16 +53,16 @@ Minimized replication overhead and avoided unnecessary redundancy, leading to lo
   | 11    |  11                                       | 3                              | 72.73           |
 
 ### Citation
-STORAGE OPTIMIZATION IN DISTRIBUTED ENVIRONMENTS USING OPTIMISTIC CONCURRENCY CONTROL
-* Vipul Kumar Bondugula
-* International Journal on Science and Technology 
-* E-ISSN 2229-7677
+OPTIMIZING FAULT-TOLERANCE IN DISTRIBUTED SYSTEMS WITH AI-AUGMENTED REPLICA MANAGEMENT
+* Kalesha Khan Pattan
+* International Journal of Intelligent Systems and Applications in Engineering 
+* ISSN 2147-6799
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
-https://www.ijsat.org/ \
+https://www.ijisae.org/ \
 **Author Contact** \
-**LinkedIn**: https://www.linkedin.com/in/vipul-b-18468a19/ | **Email**: vipulreddy574@gmail.com
+**LinkedIn**: https://www.linkedin.com/**** | **Email**: pattankalesha520@gmail.com
 
 
 
