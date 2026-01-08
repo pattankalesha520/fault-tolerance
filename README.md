@@ -27,17 +27,20 @@ This paper addresses fault tolerance challenges in distributed systems arising f
   Led the design, implementation, and validation of an intelligent, self-healing replication system combining monitoring, prediction, learning, and optimization in distributed environments.
 
 ### Relevance & Real-World Impact
-- **Improved Storage Efficiency:**
-  Reduced disk space usage in distributed database systems by minimizing versioning overhead without compromising transaction correctness.
+- **Faster and Proactive Fault Recovery:**
+  Reduced recovery time by nearly 50% compared to traditional systems by shifting from reactive recovery to predictive, proactive fault management.
+
+- **Efficient Resource Utilization:**
+Minimized replication overhead and avoided unnecessary redundancy, leading to lower storage, computation, and energy costs in distributed clusters.
 
 - **Scalable Distributed Deployment:**
-Enabled more storage-efficient scaling of database clusters by adopting OCC in low-contention scenarios while retaining MVCC where strong consistency is required.
+    Enabled efficient scaling across increasing cluster sizes by dynamically adapting replica strategies to workload intensity and node behavior.
 
-- **System-Level Performance Benefits:**
-    Lowered garbage collection pressure and metadata management costs, resulting in improved throughput and reduced resource utilization.
+  **Resilience Across Modern Architectures:**
+  Applicable to cloud, edge, and IoT ecosystems where node heterogeneity, volatility, and resource constraints demand adaptive fault-tolerance mechanisms.
   
 - **Academic and Educational Value:**
-    Provides empirical insights and implementation references for research and teaching in concurrency control, distributed databases, and storage optimization.
+    Provides a complete reference framework—architecture, algorithms, simulations, and evaluation—for research and teaching in distributed systems, fault tolerance, AI-driven systems, and autonomous computing.
 
 ### Experimental Results (Summary)
 
