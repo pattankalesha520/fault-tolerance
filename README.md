@@ -60,7 +60,7 @@ OPTIMIZING FAULT-TOLERANCE IN DISTRIBUTED SYSTEMS WITH AI-AUGMENTED REPLICA MANA
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
-https://www.ijisae.org/ \
+https://www.ijirmps.org/ \
 **Author Contact** \
 **LinkedIn**: https://www.linkedin.com/**** | **Email**: pattankalesha520@gmail.com
 
