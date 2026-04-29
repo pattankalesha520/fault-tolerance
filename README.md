@@ -7,8 +7,6 @@
 - **Published In:** International Journal of Intelligent Systems and Applications in Engineering (IJISAE)
 - **Publication Date:** Feb 2021
 - **ISSN:** ISSN 2147-6799
-- **DOI:**
-- **Impact Factor:** 9.88
 
 ### Abstract
 This paper addresses fault tolerance challenges in distributed systems arising from static replica management and reactive recovery mechanisms. It examines the limitations of traditional replication approaches, including fixed redundancy, slow adaptation to workload dynamics, and inefficient resource utilization. The proposed AI-augmented replica management framework leverages machine learning and predictive analytics to anticipate failures and performance degradation proactively. By dynamically adjusting replica placement, replication factors, and synchronization strategies, the approach enhances system reliability while minimizing overhead. The study highlights the role of intelligent, self-healing replication in improving scalability, throughput, and resilience across modern distributed infrastructures.
@@ -60,9 +58,9 @@ OPTIMIZING FAULT-TOLERANCE IN DISTRIBUTED SYSTEMS WITH AI-AUGMENTED REPLICA MANA
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
-https://www.ijirmps.org/ \
+https://www.ijisae.org/ \
 **Author Contact** \
-**LinkedIn**: https://www.linkedin.com/**** | **Email**: pattankalesha520@gmail.com
+**LinkedIn**: www.linkedin.com/in/pattan-khan-689978177 | **Email**: pattankalesha520@gmail.com
 
 
 
